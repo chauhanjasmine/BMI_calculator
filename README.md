@@ -40,12 +40,12 @@ The game will start — Player 1 (X) goes first.
 
 The board positions correspond to the numbers 1-9 as shown below:
 
-1 | 2 | 3
----+---+---
-4 | 5 | 6
----+---+---
+1 | 2 | 3<br>
+---+---+---<br>
+4 | 5 | 6<br>
+---+---+---<br>
 7 | 8 | 9
-
-• Players take turns entering a number (1-9) to place their mark.
-• The first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.
+<br>
+• Players take turns entering a number (1-9) to place their mark. <br>
+• The first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.<br>
 • If the board fills up with no winner, it is a draw.
